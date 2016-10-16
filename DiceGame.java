@@ -28,7 +28,7 @@ class Player{
 	}
 }
 	
-class DiceGame{
+public class DiceGame{
 	private Player p1;
 	private Player p2;
 	public void startGame(){
